@@ -1,0 +1,25 @@
+main {
+  font-family: 'PT Serif', 'Charter', 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3,
+.hero .tagline {
+  text-wrap: balance;
+}
+
+img {
+  margin: 0; padding: 0;
+  border-radius: .4em;
+}
+
+
+
+/*  Dont't reserve space for non existing images
+ *  inside the Hero component.
+ */
+
+@media (min-width: 50rem) {
+  .hero:not(:has(img)) {
+    grid-template-columns: 1fr;
+  }
+}

@@ -6,20 +6,20 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Dungeons & Dragons',
+			// social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/unseen-ninja' }],
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+					label: 'Hofer',
+					autogenerate: { directory: 'hofer' }
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Flex Q Madness',
+					autogenerate: { directory: 'fqm' }
 				},
+			],
+			customCss: [
+				'./src/styles/custom.css',
 			],
 		}),
 	],
