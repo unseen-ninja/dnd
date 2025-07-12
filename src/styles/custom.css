@@ -2,6 +2,11 @@ main {
   font-family: 'PT Serif', 'Charter', 'Times New Roman', Times, serif;
 }
 
+.main-pane {
+  width: 100%;
+  max-width: 960px;
+}
+
 h1, h2, h3,
 .hero .tagline {
   text-wrap: balance;
