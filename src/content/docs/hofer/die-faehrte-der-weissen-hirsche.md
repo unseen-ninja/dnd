@@ -1,6 +1,6 @@
 ---
 title: Die Fährte der weißen Hirsche 🇩🇪
-description: Ein einfacher Auftrag – Nahrung und Medizin für eine abgelegene Jägerhütte im Wald. Doch als fünf ungleiche Gefährten sich auf den Weg machen, ahnen sie nicht, dass sie an diesem Tag mehr als nur Vorräte tragen. Inmitten von Nebel, alten Bäumen und knirschenden Knochen entfaltet sich ein Kampf zwischen Pflicht, Schuld und einem letzten, verzweifelten Versuch, Leben zu retten. Der erste Schritt einer Geschichte, die nicht mit Ruhm beginnt – sondern mit einem Versprechen.
+description: Ein einfacher Auftrag – Nahrung und Medizin für eine eine Gruppe Jäger weit draußen im Wald. Doch als fünf ungleiche Gefährten sich auf den Weg machen, ahnen sie nicht, dass sie an diesem Tag mehr als nur eine einfache Lieferung vor sich haben.
 prev: false
 next: false
 tableOfContents: false
