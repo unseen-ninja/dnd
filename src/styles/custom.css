@@ -1,3 +1,18 @@
+:root[data-theme="light"] {
+  --sl-color-accent-high: lch(40.014% 108.495 309.59);
+  --sl-color-accent: lch(40.014% 108.495 309.59);
+  --sl-color-accent-low: lch(40.014% 108.495 309.59);
+  --sl-color-bg: #EEEEF5;
+}
+
+:root[data-theme="dark"] {
+  --sl-color-accent-high: lch(57.859% 97.892 326.222);
+  --sl-color-accent: lch(57.859% 97.892 326.222);
+  --sl-color-accent-low: lch(57.859% 97.892 326.222);
+  --sl-color-bg: #191923;
+}
+
+
 main {
   font-family: 'PT Serif', 'Charter', 'Times New Roman', Times, serif;
 }
