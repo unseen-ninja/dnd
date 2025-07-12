@@ -1,9 +1,14 @@
 ---
-title: Die Fährte der weißen Hirsche 🇩🇪
+title: Fährte der weißen Hirsche
 description: Ein einfacher Auftrag – Nahrung und Medizin für eine eine Gruppe Jäger weit draußen im Wald. Doch als fünf ungleiche Gefährten sich auf den Weg machen, ahnen sie nicht, dass sie an diesem Tag mehr als nur eine einfache Lieferung vor sich haben.
 prev: false
 next: false
 tableOfContents: false
+sidebar:
+  order: 0
+  badge:
+    text: DE
+    variant: default
 hero:
   title: Die Fährte der weißen Hirsche
   tagline: Fünf ungleiche Gefährten, ein Auftrag, ein Versprechen.

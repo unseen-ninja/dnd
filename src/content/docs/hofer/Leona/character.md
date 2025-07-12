@@ -4,6 +4,8 @@ description: Leona – The Silent Songbird
 prev: false
 next: false
 tableOfContents: false
+sidebar:
+  order: 1
 hero:
   title: Leona
   tagline: The Silent Songbird

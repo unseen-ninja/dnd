@@ -4,6 +4,11 @@ description: Prequel Story and Setting for Prisoner 13
 prev: false
 next: false
 tableOfContents: false
+sidebar:
+  order: 1
+  badge:
+    text: DE
+    variant: default
 hero:
   title: Gefangene 13
   tagline: Prequel Story

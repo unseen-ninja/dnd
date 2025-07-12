@@ -4,6 +4,8 @@ description: In the opulent heights of Ashmark, two daring rogues—the Silent S
 prev: false
 next: false
 tableOfContents: false
+sidebar:
+  order: 3
 hero:
   title: The Moonlight Harp
   tagline: They came for a song trapped in silver—and left behind a story etched in moonlight and glass.
