@@ -7,6 +7,9 @@ tableOfContents: false
 hero:
   title: Die Fährte der weißen Hirsche
   tagline: Fünf ungleiche Gefährten, ein Auftrag, ein Versprechen.
+  image:
+    alt: A majestic white deer
+    file: assets/white-deer.png
 ---
 
 
